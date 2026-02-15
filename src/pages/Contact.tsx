@@ -164,7 +164,7 @@ const Contact = () => {
         image_thumbnails: imageThumbnailsHtml,
       };
 
-      await emailjs.send('service_dmwibqj', 'template_1wmpses', templateParams, 'tF_tx9hAmTYDSOM3a');
+      await emailjs.send('service_rw3jwhc', 'template_qigtx5p', templateParams, 'QOmxv8rI4gnbtdvvl');
 
       toast({
         title: "Inquiry Submitted!",
